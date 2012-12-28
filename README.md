@@ -1,4 +1,4 @@
 scala-for-the-impatient-practice
 ================================
 
-The Book 《Scala for the impatient》 Practice
+This is The Book 《Scala for the impatient》 Practice Source Code(Personal Practice)
