@@ -1,5 +1,3 @@
-package charpter01
-
 /**
  * 第一章的练习题
  */
