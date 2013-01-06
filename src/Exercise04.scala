@@ -1,0 +1,6 @@
+/**
+ * 
+ */
+class Exercise04 {
+
+}
