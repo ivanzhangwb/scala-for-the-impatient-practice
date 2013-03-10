@@ -108,4 +108,7 @@ class Exercise04 {
    * scala> "Hello".zip("World")  
    * res8: scala.collection.immutable.IndexedSeq[(Char, Char)] = Vector((H,W), (e,o), (l,r), (l,l), (o,d))
    */
+  
+  
+  
 }
